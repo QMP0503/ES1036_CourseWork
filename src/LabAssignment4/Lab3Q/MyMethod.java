@@ -1,4 +1,4 @@
-package Lab3Q;
+package LabAssignment4.Lab3Q;
 
 public class MyMethod {
     final public static double PI=3.141592653589793;
